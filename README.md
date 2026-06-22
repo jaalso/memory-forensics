@@ -305,7 +305,7 @@ MITRE:    T1547.001 — Boot/Logon Autostart: Registry Run Keys / Userinit
 MITRE:    T1071.001 — C2 over HTTP
 ```
 
-📄 **[Download Full Investigation Report (PDF)](./04-zeus/Zeus_Memory_Forensics_Report.pdf)**
+📄 **[Download Full Investigation Report (PDF)](./04-zeus/Zeus_Memory_Forensics_Report_protected.pdf)**
 
 ---
 
