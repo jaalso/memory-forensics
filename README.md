@@ -1,6 +1,4 @@
-# 🧠 Memory Forensics Labs
-
-> Windows memory forensics · Malware analysis · Volatility 2 & 3 · 
+>  🧠 Memory Forensics Labs
 
 Hands-on memory forensics investigations against real public malware samples using
 Volatility 2 and the standard DFIR methodology: identify → baseline → pivot to behaviour
